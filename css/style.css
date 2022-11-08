@@ -6,3 +6,5 @@
 
 @import "./home/introducao.css";
 @import "./global/header.css";
+
+@import "./bicicletas/bicicletas-lista.css";
